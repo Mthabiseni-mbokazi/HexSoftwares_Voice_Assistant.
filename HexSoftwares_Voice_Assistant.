@@ -95,7 +95,7 @@ def get_time():
 
 if __name__ == "__main__":
     wishMe()
-    api_key = 'api_key'  # This is a Weather API key to get waether update from any city(REPLACE THE WITH YOUR API KEY)
+    api_key = 'api_key'  #This is a Weather API key to get waether update from any city(REPLACE THE WITH YOUR API KEY)
     while True:
         query = takeCommand().lower()
 

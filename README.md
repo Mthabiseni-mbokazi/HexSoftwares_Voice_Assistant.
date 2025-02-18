@@ -1,4 +1,5 @@
 Hexa - Your Personal Voice Assistant
+
 This is a Python-based voice assistant project that responds to your voice commands and performs various tasks.
 Features
  * Voice Recognition: Understands your voice commands using Google's Speech Recognition API.
